@@ -1,0 +1,11 @@
+.line{
+  display: inline-block;
+}
+img{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+div{
+  display: inline-block;
+}
