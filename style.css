@@ -6,6 +6,26 @@ img{
   border-width: 1px;
   border-color: black;
 }
+.trenta{
+  background-color: green;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 div{
   display: inline-block;
 }
+.crema{
+  position: relative;
+}
+.collana{
+  position: relative;
+}
+.vino{
+  position: relative;
+}
+#cinque{
+  background-color: red;
+  position: absolute;
+  top: 0;
+  right: 0;
