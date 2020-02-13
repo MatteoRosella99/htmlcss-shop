@@ -1,15 +1,17 @@
 .line{
   display: inline-block;
   margin-top: 60px;
+  position: relative;
 }
 img{
-  border-style: solid;
+  border: solid;
   border-color: black;
+
 }
 .trenta{
   background-color: green;
   position: absolute;
-  top: 0;
+  top: -19px;
   right: 0;
 }
 div{
@@ -27,7 +29,7 @@ div{
 #cinque{
   background-color: red;
   position: absolute;
-  top: 0;
+  top: -19px;
   right: 0;
 }
 .structure{
